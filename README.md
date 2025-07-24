@@ -1,21 +1,31 @@
-🚗 Car Management System (Spring Boot REST API)
-A simple REST API built using Spring Boot to manage car records. You can add new cars, view all cars, and search cars by company name. The application uses MySQL as the database and Postman for API testing.
+# 🚗 Car Managementm - REST API
 
-🛠 Technologies Used
-✅ Spring Boot (REST API)
+A lightweight RESTful API built with Spring Boot to manage car data. It supports adding cars, listing all cars, and searching by company name.
 
-✅ MySQL (Database)
+---
 
-✅ Eclipse (IDE)
+## 💻 Tech Stack
 
-✅ Postman (API Testing)
+* Spring Boot
+* MySQL
+* Eclipse
+* Postman
 
-✅ Maven (Build Tool)
+---
 
-📌 Key Features
-🔹 Add a new car
+## ✅ Core Functions
 
-🔹 Get all cars
+* Add car details
+* List all available cars
+* Find cars by company
 
-🔹 Search cars by company
+---
 
+## 📦 Tools Used
+
+* Spring Boot (backend framework)
+* MySQL (database)
+* Postman (API testing)
+* Eclipse (development IDE)
+
+---
